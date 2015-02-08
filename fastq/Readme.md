@@ -7,7 +7,7 @@ wonderfull ways:
 
  - `diff_lens.fastq`: Sequence and quality string have different lengths
  - `empty.fastq`: Only contains a single `@` charachter.
- - `good.fastq`: Valid fastq file with a single record
+ - `good.fastq`: Valid fastq file with a **two** records.
  - `nohdr.fastq`: Fastq file missing the header line
  - `noqual.fastq`: Fastq missing the quality line
  - `noqualhdrchr.fastq`: Fastq missing the quality header line (The line
